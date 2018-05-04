@@ -26,4 +26,4 @@ output/
 **/.ensime
 **/ensime-langserver.log
 **/.ensime_cache/**
-**/pc.stdout.log
+**/pc.stdout.lognode_modules/\nbower_components/
